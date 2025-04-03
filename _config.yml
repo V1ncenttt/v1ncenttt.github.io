@@ -23,17 +23,17 @@ repository               : "V1ncenttt/v1ncenttt.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Vincent Lefeuve"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I’m a Master’s student in Artificial Intelligence at Imperial College London with a background in Computer Science (UCL) and Engineering (CentraleSupélec). My research focuses on machine learning for climate modeling, with a current thesis on deterministic and generative surrogate models for numerical weather prediction. I’m passionate about building robust, data-efficient AI systems for impactful real-world applications."
+  location         : "London"
   employer         : "Imperial College London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "vincent.lefeuve24@imperial.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "V1ncenttt"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
